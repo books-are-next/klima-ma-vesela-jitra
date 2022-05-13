@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Má veselá jitra</text>
+  </docTitle>
+  <docAuthor>
+    <text>Ivan Klíma</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>V pondělí ráno (šmelinářská povídka)</text>
+      </navLabel>
+      <content src="Text/ma_vesela_jitra_005.xhtml#_idParaDest-1"/>
+    </navPoint>
+    <navPoint id="navpoint2" playOrder="2">
+      <navLabel>
+        <text>V úterý ráno (sentimentální povídka)</text>
+      </navLabel>
+      <content src="Text/ma_vesela_jitra_006.xhtml#_idParaDest-2"/>
+    </navPoint>
+    <navPoint id="navpoint3" playOrder="3">
+      <navLabel>
+        <text>Ve středu ráno (vánoční spiklenecká povídka)</text>
+      </navLabel>
+      <content src="Text/ma_vesela_jitra_007.xhtml#_idParaDest-3"/>
+    </navPoint>
+    <navPoint id="navpoint4" playOrder="4">
+      <navLabel>
+        <text>Ve čtvrtek ráno (erotická povídka)</text>
+      </navLabel>
+      <content src="Text/ma_vesela_jitra_008.xhtml#_idParaDest-4"/>
+    </navPoint>
+    <navPoint id="navpoint5" playOrder="5">
+      <navLabel>
+        <text>V pátek ráno (sanitářská povídkas vloženou povídkou do krabice)</text>
+      </navLabel>
+      <content src="Text/ma_vesela_jitra_009.xhtml#_idParaDest-5"/>
+    </navPoint>
+    <navPoint id="navpoint6" playOrder="6">
+      <navLabel>
+        <text>V sobotu ráno (zlodějská povídka)</text>
+      </navLabel>
+      <content src="Text/ma_vesela_jitra_010.xhtml#_idParaDest-6"/>
+    </navPoint>
+    <navPoint id="navpoint7" playOrder="7">
+      <navLabel>
+        <text>V neděli ráno (bláznovská povídka)</text>
+      </navLabel>
+      <content src="Text/ma_vesela_jitra_011.xhtml#_idParaDest-7"/>
+    </navPoint>
+    <navPoint id="navpoint8" playOrder="8">
+      <navLabel>
+        <text>Autorova poznámka</text>
+      </navLabel>
+      <content src="Text/ma_vesela_jitra_012.xhtml#_idParaDest-8"/>
+    </navPoint>
+  </navMap>
+</ncx>

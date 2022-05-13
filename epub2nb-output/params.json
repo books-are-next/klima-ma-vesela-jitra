@@ -1,0 +1,338 @@
+{
+  "params": {
+    "metadata": {
+      "title": "Má veselá jitra",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Ivan Klíma",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-02-25T00:00:00.000Z"
+    },
+    "elements": {
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis, MLP_uroven3_nadpis",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brAfter": "",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
+      "figure": "MLP_obrazky\nMLP-obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "ma_vesela_jitra_001.md",
+            "xhtml": "ma_vesela_jitra_001.xhtml",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ma_vesela_jitra_002.md",
+            "xhtml": "ma_vesela_jitra_002.xhtml",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ma_vesela_jitra_003.md",
+            "xhtml": "ma_vesela_jitra_003.xhtml",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ma_vesela_jitra_004.md",
+            "xhtml": "ma_vesela_jitra_004.xhtml",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ma_vesela_jitra_005.md",
+            "xhtml": "ma_vesela_jitra_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ma_vesela_jitra_006.md",
+            "xhtml": "ma_vesela_jitra_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ma_vesela_jitra_007.md",
+            "xhtml": "ma_vesela_jitra_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ma_vesela_jitra_008.md",
+            "xhtml": "ma_vesela_jitra_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ma_vesela_jitra_009.md",
+            "xhtml": "ma_vesela_jitra_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ma_vesela_jitra_010.md",
+            "xhtml": "ma_vesela_jitra_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ma_vesela_jitra_011.md",
+            "xhtml": "ma_vesela_jitra_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ma_vesela_jitra_012.md",
+            "xhtml": "ma_vesela_jitra_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "ma_vesela_jitra_013.md",
+            "xhtml": "ma_vesela_jitra_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          }
+        ]
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Má veselá jitra",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Ivan Klíma",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-02-25T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ma_vesela_jitra_001.md",
+        "xhtml": "ma_vesela_jitra_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ma_vesela_jitra_002.md",
+        "xhtml": "ma_vesela_jitra_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ma_vesela_jitra_003.md",
+        "xhtml": "ma_vesela_jitra_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ma_vesela_jitra_004.md",
+        "xhtml": "ma_vesela_jitra_004.xhtml"
+      },
+      {
+        "titleSuggest": "V pondělí ráno (šmelinářská povídka)",
+        "subtitleSuggest": "",
+        "filename": "ma_vesela_jitra_005.md",
+        "xhtml": "ma_vesela_jitra_005.xhtml"
+      },
+      {
+        "titleSuggest": "V úterý ráno (sentimentální povídka)",
+        "subtitleSuggest": "",
+        "filename": "ma_vesela_jitra_006.md",
+        "xhtml": "ma_vesela_jitra_006.xhtml"
+      },
+      {
+        "titleSuggest": "Ve středu ráno (vánoční spiklenecká povídka)",
+        "subtitleSuggest": "",
+        "filename": "ma_vesela_jitra_007.md",
+        "xhtml": "ma_vesela_jitra_007.xhtml"
+      },
+      {
+        "titleSuggest": "Ve čtvrtek ráno (erotická povídka)",
+        "subtitleSuggest": "",
+        "filename": "ma_vesela_jitra_008.md",
+        "xhtml": "ma_vesela_jitra_008.xhtml"
+      },
+      {
+        "titleSuggest": "V pátek ráno (sanitářská povídkas vloženou povídkou do krabice)",
+        "subtitleSuggest": "",
+        "filename": "ma_vesela_jitra_009.md",
+        "xhtml": "ma_vesela_jitra_009.xhtml"
+      },
+      {
+        "titleSuggest": "V sobotu ráno (zlodějská povídka)",
+        "subtitleSuggest": "",
+        "filename": "ma_vesela_jitra_010.md",
+        "xhtml": "ma_vesela_jitra_010.xhtml"
+      },
+      {
+        "titleSuggest": "V neděli ráno (bláznovská povídka)",
+        "subtitleSuggest": "",
+        "filename": "ma_vesela_jitra_011.md",
+        "xhtml": "ma_vesela_jitra_011.xhtml"
+      },
+      {
+        "titleSuggest": "Autorova poznámka",
+        "subtitleSuggest": "",
+        "filename": "ma_vesela_jitra_012.md",
+        "xhtml": "ma_vesela_jitra_012.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "ma_vesela_jitra_013.md",
+        "xhtml": "ma_vesela_jitra_013.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/idGeneratedStyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_ma_vesela_jitra.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "CharOverride-1",
+      "Hyperlink",
+      "MLP_citacni_str_rozdeleni",
+      "MLP_dopis",
+      "MLP_dopis_bez1radku",
+      "MLP_dopis_bez1radku_-I-",
+      "MLP_dopis_podpis_-I-",
+      "MLP_licence_hypertext",
+      "MLP_licence_obrazek",
+      "MLP_licence_paragraf",
+      "MLP_licence_text",
+      "MLP_obrazky",
+      "MLP_text",
+      "MLP_text_-0-12-",
+      "MLP_text_-12-0-",
+      "MLP_text_-12-12-",
+      "MLP_text_bez1radku",
+      "MLP_text_bez1radku_-0-12-",
+      "MLP_text_bez1radku_-12-0-",
+      "MLP_text_uprostred",
+      "MLP_text_uprostred_-I-",
+      "MLP_tiraz_autor_a_nazev",
+      "MLP_titulka_autor",
+      "MLP_titulka_nazev",
+      "MLP_uroven2_kapitola",
+      "MLP_znak_kurziva_11b",
+      "ParaOverride-1",
+      "ParaOverride-2",
+      "ParaOverride-4",
+      "Z-kladn--textový-r-meček",
+      "_idGenCharOverride-1",
+      "_idGenObjectAttribute-1",
+      "_idGenObjectAttribute-2",
+      "_idGenObjectLayout-1",
+      "_idGenObjectStyleOverride-1"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "klima-ma-vesela-jitra"
+    },
+    "generatedAt": 1652420740595
+  }
+}
