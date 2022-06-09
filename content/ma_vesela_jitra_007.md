@@ -3,8 +3,6 @@ title: Ve středu ráno (vánoční spiklenecká povídka)
 contentType: prose
 ---
 
-  
-
 Ve středu ráno, bylo to den před Štědrým večerem, jsem vstával ve čtvrt na pět. Budík jsem si nařídil sice až na pátou, ale stejně, vědom si žalostné nezbytnosti časného vstávání, jsem už od tří hodin nespal. Došoural jsem se do jídelny, jejíž okno vedlo na sever, a na jeho rámu byl tedy připevněn teploměr. Posvítil jsem si na stupnici baterkou. Horní okraj rtuťového sloupce vyčuhoval těsně nad nulu. Dost zima, aby se člověk netěšil, jak stráví osm nebo devět hodin pod širým nebem, ještě k tomu vestoje a s rukama neustále zchlazovanýma studenou vodou. Ale vzhledem k roční době se na nepřízeň osudu nedalo žehrat. Mohlo být mrazivěji.
 
 Děti spaly a žena také. Nasnídal jsem se v kuchyni. Pak jsem na sebe nevlékl dva svetry, lyžařskou větrovku a na nohy troje ponožky. Byl bych si po včerejší zkušenosti vzal rád čtvery, jenže jsem neměl tak obrovské boty.
