@@ -3,8 +3,6 @@ title: "V\_sobotu ráno (zlodějská povídka)"
 contentType: prose
 ---
 
-  
-
 Parcela se rozkládala na úpatí svahu. Nahoře na planině čněly k nebi jako monstrózní trosky rozestavěné kostry věžových domů. My měli budovat jen čtyři montované garáže, doposud z nich však nebyla vztyčena ani jediná traverza. Pouze čtyři výkopové rýhy zely vlhkou prázdnotou.
 
 Přehazoval jsem písek spolu s inženýrem Králíkem, který byl jakýmsi vůdcem anebo aspoň organizátorem naší stavební party.

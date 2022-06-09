@@ -3,8 +3,6 @@ title: V pondělí ráno (šmelinářská povídka)
 contentType: prose
 ---
 
-  
-
 V pondělí ráno mi spadl na terasu Bedříšek. Sedím za stolem a píšu, a zdá se mi, že v předsíni slyším kroky. Je to divné, protože bytové dveře jsem ráno zamykal a žena i děti dávno odešly. Volám: „Je tam někdo?“
 
 Ticho.
@@ -59,8 +57,8 @@ Bedříšek ovšem není uplakané dítě. Tatínek – sadista – ho řeže 
 
 Jsou to všechno jeho výmysly. To dítě samo neví, kdy si vymýšlí a kdy náhodou mluví pravdu (celý tatínek), ale čekat na maminku nemůžeme, o tatínkovi ani nemluvě. Píšu na kus papíru rychle vzkaz.
 
-Paní Vejrová,  
-Bedříšek si trochu natloukl. Jeli jsme k doktorovi. Nic vážného, bližší ústně.
+> _Paní Vejrová,  
+> Bedříšek si trochu natloukl. Jeli jsme k doktorovi. Nic vážného, bližší ústně._
 
 Podepsal jsem se a strčil jsem ten vzkaz nahoře za dveře.
 
@@ -68,9 +66,9 @@ Tahle vila je místem neblahých událostí. Dům postavili před válkou manže
 
 Oslovovala ho: Pepíčku! Vařila mu, prala a ještě ho šatila. Pepíček byl velice tichý a zdvořilý člověk, zdravil mě slovy: Klaním se a pozdravení paní! Jednoho dne zmizel. Mohli bychom si byli myslet, že ho někdo praštil v lesíčku, který začínal hned za domem a jímž si všichni zkracujeme cestu, když spěcháme na autobus. Jenže zmizel i s harmonikou a kufříkem. Asi za půl roku mi od něho přišel stručný lístek z Dánska. Na líci byla vyobrazena restaurace jakéhosi pana Hansena, na rubu Pepíček psal:
 
-Mám se krásně a jsem svoboden. Pozdravujte všechny pány nájemníky i tu mou bábu lakomou.
+> _Mám se krásně a jsem svoboden. Pozdravujte všechny pány nájemníky i tu mou bábu lakomou._
 
-_Se ctěným pozdravem Váš Pepa_
+> _Se ctěným pozdravem Váš Pepa_
 
 Bába lakomá žila ještě pět let, ke konci života načisto zhloupla, myslela si, že ji chtějí okrást, a jednou za měsíc volala Bezpečnost, že se jí ztratily vkladní knížky. Přijeli, zjistili, že je všechno v pořádku, a zase odjeli. Když jsem se podivoval, proč se dají vždycky znovu nachytat, vysvětlili mi, že ji nesmějí odmítnout. Co kdyby ji někdo opravdu přepadl?
 
@@ -180,10 +178,10 @@ Trochu schlípl. „Ale podívejte se na ty paže a na ty stehna! Tohle přece 
 
 Potom mi předvedl sbírku mincí svého syna. Byly srovnány v tlustém albu, na vnitřní straně tvrdých desek bylo krasopisně vepsáno:
 
-Bedřich Vejr – sbírka mincí  
-Bedříškovi v den jeho narození
+> _Bedřich Vejr – sbírka mincí  
+> Bedříškovi v den jeho narození_
 
-                                         věnuje táta
+>                                          _věnuje táta_
 
 Bezmála mě to dojalo.
 

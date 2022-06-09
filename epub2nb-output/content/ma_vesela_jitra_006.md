@@ -3,8 +3,6 @@ title: "V\_úterý ráno (sentimentální povídka)"
 contentType: prose
 ---
 
-  
-
 V úterý, asi v devět hodin ráno, zazvonil telefon. Do telefonu se vždy představuju svým jménem, ale jsem zvyklý, že lidé na druhém konci se nepředstavují. Je to pochopitelné; ti, co můj telefon odposlouchávají, stejně vědí, že na jednom konci linky se nacházím já, nemusí však vědět, kdo mluví na konci druhém. Občas se ovšem stane, že to nevím ani já. Tentokrát mi hlas připadl zcela neznámý. „Tady Lída, nezlobte se, mohl byste mi říci, jaké je vaše povolání?“
 
 „Moje povolání?“
