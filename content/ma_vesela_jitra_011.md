@@ -3,6 +3,8 @@ title: "V\_neděli ráno (bláznovská povídka)"
 contentType: prose
 ---
 
+<section>
+
 Vzbudilo mě vyzvánění kostelního zvonu, hned poté jsem zaznamenal ťukavé zvuky dešťových kapek. Tenhle rok oplýval dešťovými srážkami a policejními prohlídkami.
 
 Své služby nabízely v obci dva kostely. Ten, co vyzváněl v tuhle časnou hodinu, aby sezval věřící, byl katolický a jeho výzvy se mě tedy netýkaly. Pokud jsem měl právo nazývat se křesťanem, patřil jsem k těm druhým. Také tenhle pokojík tady mi sehnal můj přítel evangelický farář.
@@ -314,3 +316,5 @@ Pan profesor si zatím tichounce šeptal jména jako Chrysippos a Philon z Lar
 Chtěl jsem se zeptat, jestli před Kristem anebo po Kristu, ale bál jsem se, že bych ho tím ranil. Nařídil jsem tedy číselník a oba jsme s napětím čekali, jestli se kufřík otevře.
 
 > _(14. 4. 1978)_
+
+</section>

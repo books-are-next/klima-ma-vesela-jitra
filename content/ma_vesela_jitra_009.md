@@ -3,6 +3,8 @@ title: "V\_pátek ráno (sanitářská povídkas\_vloženou povídkou do krabice
 contentType: prose
 ---
 
+<section>
+
 Venku lilo, správný podzimní déšť, který se rodí někdy uprostřed noci a trvá bezustání šestatřicet hodin. Bylo teprve půl jedné, ale práci už jsem neměl žádnou od desíti hodin. A to jsem ještě pomáhal počítat staniční prostěradla a povlaky. Částečně na papíře, částečně ve skříních a ve skladu. Polštářových povlaků chybělo sto sedmdesát, prostěradel dvě stě patnáct a povlaků na přikrývky jenom sto třiapadesát.
 
 „Vidíte, pane Klíma,“ naříkala staniční, „a to všechno je rozkradený!“
@@ -383,6 +385,10 @@ Stačilo natáhnout ruku a obejmout ji. Jistě by se nebránila. Snad to dokonc
 
 Doma jsem začal psát hned ten večer. Do příštího úterý, kdy jsem měl další službu, jsem byl hotov. Text jsem přepsal na stroji a dal do obálky. Zněl takto:
 
+</section>
+
+<section>
+
 V pátek ráno
 
 > Nikdy si toho starce nevšimli, teprve když babičku, celou žlutou, s propadlými tvářemi a očima, v nichž poslední stopy života otupily bolest a morfium, odvezli na resuscitační oddělení, kam běžně posílali umírat beznadějné případy, získal od primáře povolení a přišel ráno do toho pochmurného místa plného sténání a sotva snesitelného zápachu, přitáhl si židli k posteli nemocné, usedl k ní a tak setrvával téměř bez pohnutí po celé hodiny.
@@ -507,6 +513,10 @@ V pátek ráno
 
 > „Tak tady jsou ty věci,“ ozval se za ním hlas sestry. Nesla v náručí balík prádla a také šaty, plášť, župan a boty, dokonce s trochou zaschlého bláta. Přidala mu do náruče, v níž držel balík s novými šaty, všechny ty věci. „Ještě podpis,“ přistrčila mu jakýsi formulář. Když se zatvářil udiveně, vysvětlila: „To víte, pořádek musí být!“
 
+</section>
+
+<section>
+
 V úterý ve tři čtvrti na jednu jsem si šel sednout na lavici před naší útulnou. Tentokráte jsem měl s sebou, když nepočítám vlastní spisování, Zweigova Balzaka. Dveře resuscitačního oddělení byly zavřené, ale Táňa službu měla, to jsem si zjistil u pana Mixy.
 
 Sloužil jsem dlouhou směnu – až do šesti večer, nemohla mi tedy utéct, ledaže by mě někam odvolali, což v tuhle popolední hodinu bylo málo pravděpodobné. Ostatně jsem jí mohl to psaní předat kdykoliv později, ale přesto jsem čekal netrpělivě, málem jako milenec na schůzce.
@@ -572,3 +582,5 @@ Přikývla. Potom vstala. „To si můžu skutečně nechat?“ Ukázala na arch
 A Tánička tedy začala vsouvat opatrně papíry do obálky, aby se jí nepomačkaly dřív, než je uloží do krabice, zatímco já počítal, kolik dní služby mi zbývá do konce roku, kdy odtud neodvolatelně odejdu, zatímco o patro výš andělská sestra Věra si pro mě do zásoby namíchávala smrticí koktejl, zatímco ve sklepě pode mnou se plížil pan Biebl, aby ukradl poslední dosud neodcizený balík vaty, zatímco za mnou, skryt v naší útulně, se tlustý pan Mixa posiloval spánkem uprostřed své téměř nekonečné směny, zatímco svět kolem mě se řítil k lepším zítřkům.
 
 „Tak vám teda moc děkuju,“ řekla Táňa.
+
+</section>
