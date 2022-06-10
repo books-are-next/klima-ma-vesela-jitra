@@ -3,6 +3,8 @@ title: "V\_sobotu ráno (zlodějská povídka)"
 contentType: prose
 ---
 
+<section>
+
 Parcela se rozkládala na úpatí svahu. Nahoře na planině čněly k nebi jako monstrózní trosky rozestavěné kostry věžových domů. My měli budovat jen čtyři montované garáže, doposud z nich však nebyla vztyčena ani jediná traverza. Pouze čtyři výkopové rýhy zely vlhkou prázdnotou.
 
 Přehazoval jsem písek spolu s inženýrem Králíkem, který byl jakýmsi vůdcem anebo aspoň organizátorem naší stavební party.
@@ -234,3 +236,5 @@ Na našem staveništi nás přivítali s nadšením. Shodili jsme fošny, a za
 „No jo, Vladimír je podivín,“ pochopil inženýr Králík. Pak se ke mně naklonil a sdělil mi téměř šeptem: „Představte si, on vlastně začal studovat na kněze. Jenže ho zavřeli, když už byl skoro hotov. Že rozšiřoval nějakej papežskej list. Dostal deset roků, ale pustili ho asi po šesti. Pro to jeho astma. A že se slušně choval. On je strašně slušnej a poctivej člověk. Když se vrátil, vystudoval teprv tu naši strojařinu na dálku. Já dálkařům nikdy moc nevěřím, ale od Vladimíra by se moh leckdo učit!
 
 Stejně,“ dodal ještě, „řeknu vám: deset let za papežskej list, to je ale paleta!“
+
+</section>

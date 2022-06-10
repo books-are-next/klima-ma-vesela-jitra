@@ -3,6 +3,8 @@ title: "V\_úterý ráno (sentimentální povídka)"
 contentType: prose
 ---
 
+<section>
+
 V úterý, asi v devět hodin ráno, zazvonil telefon. Do telefonu se vždy představuju svým jménem, ale jsem zvyklý, že lidé na druhém konci se nepředstavují. Je to pochopitelné; ti, co můj telefon odposlouchávají, stejně vědí, že na jednom konci linky se nacházím já, nemusí však vědět, kdo mluví na konci druhém. Občas se ovšem stane, že to nevím ani já. Tentokrát mi hlas připadl zcela neznámý. „Tady Lída, nezlobte se, mohl byste mi říci, jaké je vaše povolání?“
 
 „Moje povolání?“
@@ -61,8 +63,16 @@ Nesetkali jsme se nikdy v jinou denní dobu, než jakou nám vymezila její pol
 
 V tu dobu jím skutečně byl. Jestli ho v jinou denní dobu někdo používal, nevím. Našel jsem na nedalekém staveništi plechovou tabuli s nápisem
 
+</section>
+
+<section>
+
 VSTUP PŘÍSNĚ ZAKÁZÁN  
 porušení se tresce pod pokutou 500 Kčs
+
+</section>
+
+<section>
 
 Tuto důraznou výstrahu jsem připevnil na strom v místě, kde jsme přelézali ostnatý drát, a tím jsem nepochybně zvýšil pravděpodobnost, že nás tady nikdo nevyruší.
 
@@ -409,3 +419,5 @@ Tamta svoboda, o kterou jsem se nijak nezasloužil, mě jen stěží dokáže n
 Člověk často nemá v životě jinou volbu než mezi dvěma druhy utrpení, dvěma podobami marnosti, dvěma obměnami zoufalství. Je pouze na něm, aby rozhodl, které z nich mu připadne snesitelnější či dokonce svůdnější, při kterém mu zbude zdání hrdosti anebo aspoň zadostiučinění.
 
 Mohl jsem uvést tak mnoho pro i proti, a stejně by mě nedokázala pochopit. Raději jsem odpověděl: „Nevím!“
+
+</section>

@@ -3,6 +3,8 @@ title: V pondělí ráno (šmelinářská povídka)
 contentType: prose
 ---
 
+<section>
+
 V pondělí ráno mi spadl na terasu Bedříšek. Sedím za stolem a píšu, a zdá se mi, že v předsíni slyším kroky. Je to divné, protože bytové dveře jsem ráno zamykal a žena i děti dávno odešly. Volám: „Je tam někdo?“
 
 Ticho.
@@ -57,14 +59,26 @@ Bedříšek ovšem není uplakané dítě. Tatínek – sadista – ho řeže 
 
 Jsou to všechno jeho výmysly. To dítě samo neví, kdy si vymýšlí a kdy náhodou mluví pravdu (celý tatínek), ale čekat na maminku nemůžeme, o tatínkovi ani nemluvě. Píšu na kus papíru rychle vzkaz.
 
+</section>
+
+<section>
+
 > _Paní Vejrová,  
 > Bedříšek si trochu natloukl. Jeli jsme k doktorovi. Nic vážného, bližší ústně._
+
+</section>
+
+<section>
 
 Podepsal jsem se a strčil jsem ten vzkaz nahoře za dveře.
 
 Tahle vila je místem neblahých událostí. Dům postavili před válkou manželé drogisté pro sebe a svého syna. Syn byl vysokým četnickým důstojníkem, po válce uprchl do Ameriky. Manžele domácí za trest vystěhovali do podkroví, do dvou pokojíků, které úřad ani neuznává za byt, prý tam jsou stropy o deset centimetrů nižší, než předpisuje státní norma. Samozřejmě v tom bytě vždycky bydlí lidé. Koupelna je tam skoro zámecká, vykachlíkovaná až pod ten strop, co není v normě. Domácí zavřeli, když jí bylo sedmdesát, že prý prodávala tuzexové bony. Samozřejmě že také zabavili její půlku vily ve prospěch státu. Když ji zavřeli, její manžel, kterému už dávno předtím vzali drogerii, ani nemusel nic provést, spolykal nějaké prášky. Odvezli ho do nemocnice, už se nevrátil. Vrátila se ona. Bylo jí tehdy třiasedmdesát. Po mrtvém manželovi zdědila nezkonfiskovanou půlku vily a byt v podkroví. Do toho si přivedla mladíčka. Hrál na harmoniku a dělal číšníka v nočním podniku. Říkalo se, že byl jejím milencem, ale asi jen těžko někdo věděl, jak to mezi nimi opravdu bylo.
 
 Oslovovala ho: Pepíčku! Vařila mu, prala a ještě ho šatila. Pepíček byl velice tichý a zdvořilý člověk, zdravil mě slovy: Klaním se a pozdravení paní! Jednoho dne zmizel. Mohli bychom si byli myslet, že ho někdo praštil v lesíčku, který začínal hned za domem a jímž si všichni zkracujeme cestu, když spěcháme na autobus. Jenže zmizel i s harmonikou a kufříkem. Asi za půl roku mi od něho přišel stručný lístek z Dánska. Na líci byla vyobrazena restaurace jakéhosi pana Hansena, na rubu Pepíček psal:
+
+</section>
+
+<section>
 
 > _Mám se krásně a jsem svoboden. Pozdravujte všechny pány nájemníky i tu mou bábu lakomou._
 
@@ -178,10 +192,18 @@ Trochu schlípl. „Ale podívejte se na ty paže a na ty stehna! Tohle přece 
 
 Potom mi předvedl sbírku mincí svého syna. Byly srovnány v tlustém albu, na vnitřní straně tvrdých desek bylo krasopisně vepsáno:
 
+</section>
+
+<section>
+
 > _Bedřich Vejr – sbírka mincí  
 > Bedříškovi v den jeho narození_
 
 >                                          _věnuje táta_
+
+</section>
+
+<section>
 
 Bezmála mě to dojalo.
 
@@ -320,3 +342,5 @@ Paní Vejrová nás viděla oknem. Seběhla se schodů a křičí: „Bedříš
 „Bedříšku, cos to udělal,“ vzlyká paní Vejrová, „on se jistě zase bál, že táta přijde dřív než já, ale já mu říkala, já jsem ti přece říkala, že hned přijdu!“ Tiskne Bedříška k sobě a pořád naříká. „Vždyť víš, že tě mám ráda, že bych bez tebe nemohla žít. Vždyť já bych taky musela skočit z toho okna, kdyby se ti něco stalo.“ Koukám na Bedříška v jejím náručí a najednou s úžasem vidím, že se mu krabatí tvář a z očí mu tryskají slzy.
 
 Konečně brečí.
+
+</section>

@@ -3,9 +3,19 @@ title: Ve čtvrtek ráno (erotická povídka)
 contentType: prose
 ---
 
+<section>
+
 Ulice byla vlastně slepá; její rozbitá vozovka ústila do dvora zámečnické dílny a po straně napůl povalené dřevěné ohrady hlásala omšelá tabule, že
 
+</section>
+
+<section>
+
 NEPOVOLANÝM VSTUP ZAKÁZÁN!
+
+</section>
+
+<section>
 
 Jelikož však most přes páchnoucí potok vedl právě tímto dvorem, všichni, kteří se potřebovali dostat na druhý břeh, pokračovali v cestě, jako by tabulky nebylo.
 
@@ -161,9 +171,23 @@ Sledoval jsem ho pohledem až k mostku, ohlédl jsem se však ještě včas k 
 
 Opustil jsem své stanoviště a šoural se k ohradě, až jsem byl tak blízko, že jsem dobře rozeznal hlasité úpění a stony, o jejichž původu nemohlo být pochyb, a já si vzpomněl na dar, který jsem obdržel. Vytáhl jsem papír z kapsy a rozevřel jej. Uprostřed širokého listu zlatým písmem vytištěné zářilo poselství:
 
+</section>
+
+<section>
+
 _VĚŘ VLASTNÍMU NITRU!  
 soukromý dr. filosofie Augustin Hovorka_
 
+</section>
+
+<section>
+
 Složil jsem arch, zastrčil jej opět do kapsy, a aniž jsem vyčkal znovuobjevení známých tváří, pustil jsem se cestou, které vévodil ten už od dětství svádějící nápis
 
+</section>
+
+<section>
+
 NEPOVOLANÝM VSTUP ZAKÁZÁN!
+
+</section>
