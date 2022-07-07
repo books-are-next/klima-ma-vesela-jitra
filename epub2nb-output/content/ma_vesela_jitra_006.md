@@ -67,8 +67,12 @@ V tu dobu jím skutečně byl. Jestli ho v jinou denní dobu někdo používal
 
 <section>
 
+<div class="centered">
+
 VSTUP PŘÍSNĚ ZAKÁZÁN  
 porušení se tresce pod pokutou 500 Kčs
+
+</div>
 
 </section>
 

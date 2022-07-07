@@ -11,7 +11,11 @@ Ulice byla vlastně slepá; její rozbitá vozovka ústila do dvora zámečnick�
 
 <section>
 
+<div class="centered">
+
 NEPOVOLANÝM VSTUP ZAKÁZÁN!
+
+</div>
 
 </section>
 
@@ -175,8 +179,12 @@ Opustil jsem své stanoviště a šoural se k ohradě, až jsem byl tak blízk
 
 <section>
 
+<div class="centered">
+
 _VĚŘ VLASTNÍMU NITRU!  
 soukromý dr. filosofie Augustin Hovorka_
+
+</div>
 
 </section>
 
@@ -188,6 +196,10 @@ Složil jsem arch, zastrčil jej opět do kapsy, a aniž jsem vyčkal znovuobje
 
 <section>
 
+<div class="centered">
+
 NEPOVOLANÝM VSTUP ZAKÁZÁN!
+
+</div>
 
 </section>
