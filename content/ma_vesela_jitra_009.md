@@ -389,7 +389,11 @@ Doma jsem začal psát hned ten večer. Do příštího úterý, kdy jsem měl d
 
 <section>
 
+<div class="centered">
+
 V pátek ráno
+
+</div>
 
 > Nikdy si toho starce nevšimli, teprve když babičku, celou žlutou, s propadlými tvářemi a očima, v nichž poslední stopy života otupily bolest a morfium, odvezli na resuscitační oddělení, kam běžně posílali umírat beznadějné případy, získal od primáře povolení a přišel ráno do toho pochmurného místa plného sténání a sotva snesitelného zápachu, přitáhl si židli k posteli nemocné, usedl k ní a tak setrvával téměř bez pohnutí po celé hodiny.
 

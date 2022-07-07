@@ -199,7 +199,7 @@ Potom mi předvedl sbírku mincí svého syna. Byly srovnány v tlustém albu, 
 > _Bedřich Vejr – sbírka mincí  
 > Bedříškovi v den jeho narození_
 
->                                          _věnuje táta_
+>             _věnuje táta_
 
 </section>
 
