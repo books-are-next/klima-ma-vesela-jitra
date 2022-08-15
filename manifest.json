@@ -1,0 +1,235 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Má veselá jitra",
+  "author": "Ivan Klíma",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "Beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "klima-ma-vesela-jitra-d93664b",
+  "revision": "d93664b",
+  "readingOrder": [
+    "promo.html",
+    "ma_vesela_jitra_005.html",
+    "ma_vesela_jitra_006.html",
+    "ma_vesela_jitra_007.html",
+    "ma_vesela_jitra_008.html",
+    "ma_vesela_jitra_009.html",
+    "ma_vesela_jitra_010.html",
+    "ma_vesela_jitra_011.html",
+    "ma_vesela_jitra_012.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Mon Aug 15 2022 09:39:58 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1660556398575
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "ma_vesela_jitra_005.html",
+      "toc": []
+    },
+    {
+      "title": "V pondělí ráno (šmelinářská povídka)",
+      "file": "ma_vesela_jitra_005.html",
+      "words": 4557,
+      "chars": 27320,
+      "ideas": 161,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "ma_vesela_jitra_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V pondělí ráno (šmelinářská povídka)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V úterý ráno (sentimentální povídka)",
+      "file": "ma_vesela_jitra_006.html",
+      "words": 4986,
+      "chars": 29159,
+      "ideas": 205,
+      "role": "chapter",
+      "order": 2,
+      "prev": "ma_vesela_jitra_005.html",
+      "next": "ma_vesela_jitra_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V úterý ráno (sentimentální povídka)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ve středu ráno (vánoční spiklenecká povídka)",
+      "file": "ma_vesela_jitra_007.html",
+      "words": 5544,
+      "chars": 32607,
+      "ideas": 155,
+      "role": "chapter",
+      "order": 3,
+      "prev": "ma_vesela_jitra_006.html",
+      "next": "ma_vesela_jitra_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ve středu ráno (vánoční spiklenecká povídka)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ve čtvrtek ráno (erotická povídka)",
+      "file": "ma_vesela_jitra_008.html",
+      "words": 3958,
+      "chars": 23914,
+      "ideas": 84,
+      "role": "chapter",
+      "order": 4,
+      "prev": "ma_vesela_jitra_007.html",
+      "next": "ma_vesela_jitra_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ve čtvrtek ráno (erotická povídka)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V pátek ráno (sanitářská povídkas vloženou povídkou do krabice)",
+      "file": "ma_vesela_jitra_009.html",
+      "words": 9577,
+      "chars": 55590,
+      "ideas": 286,
+      "role": "chapter",
+      "order": 5,
+      "prev": "ma_vesela_jitra_008.html",
+      "next": "ma_vesela_jitra_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V pátek ráno (sanitářská povídkas vloženou povídkou do krabice)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V sobotu ráno (zlodějská povídka)",
+      "file": "ma_vesela_jitra_010.html",
+      "words": 4155,
+      "chars": 24860,
+      "ideas": 117,
+      "role": "chapter",
+      "order": 6,
+      "prev": "ma_vesela_jitra_009.html",
+      "next": "ma_vesela_jitra_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V sobotu ráno (zlodějská povídka)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V neděli ráno (bláznovská povídka)",
+      "file": "ma_vesela_jitra_011.html",
+      "words": 6805,
+      "chars": 40336,
+      "ideas": 157,
+      "role": "chapter",
+      "order": 7,
+      "prev": "ma_vesela_jitra_010.html",
+      "next": "ma_vesela_jitra_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V neděli ráno (bláznovská povídka)",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Autorova poznámka",
+      "file": "ma_vesela_jitra_012.html",
+      "words": 354,
+      "chars": 2151,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 8,
+      "prev": "ma_vesela_jitra_011.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Autorova poznámka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 133,
+      "chars": 847,
+      "ideas": 15,
+      "role": "about",
+      "order": null,
+      "prev": "ma_vesela_jitra_012.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 40076,
+      "chars": 236820,
+      "ideas": 1191
+    },
+    "chapters": {
+      "words": 39936,
+      "chars": 235937,
+      "ideas": 1172
+    }
+  }
+}
