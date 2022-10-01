@@ -8,8 +8,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "klima-ma-vesela-jitra-02c80fe",
-  "revision": "02c80fe",
+  "identifier": "klima-ma-vesela-jitra-cc439b7",
+  "revision": "cc439b7",
   "readingOrder": [
     "promo.html",
     "ma_vesela_jitra_005.html",
@@ -23,8 +23,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:26:21 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664486781483
+    "date": "Sat Oct 01 2022 15:56:47 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664639807066
   },
   "documents": [
     {
