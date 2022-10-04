@@ -8,8 +8,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "klima-ma-vesela-jitra-cc439b7",
-  "revision": "cc439b7",
+  "identifier": "klima-ma-vesela-jitra-f0c7bed",
+  "revision": "f0c7bed",
   "readingOrder": [
     "promo.html",
     "ma_vesela_jitra_005.html",
@@ -23,8 +23,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 15:56:47 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664639807066
+    "date": "Tue Oct 04 2022 16:45:32 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664901932302
   },
   "documents": [
     {
@@ -202,9 +202,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 133,
+      "words": 131,
       "chars": 847,
-      "ideas": 15,
+      "ideas": 13,
       "role": "about",
       "order": null,
       "prev": "ma_vesela_jitra_012.html",
@@ -222,9 +222,9 @@
   ],
   "totals": {
     "all": {
-      "words": 40076,
+      "words": 40074,
       "chars": 236820,
-      "ideas": 1191
+      "ideas": 1189
     },
     "chapters": {
       "words": 39936,
